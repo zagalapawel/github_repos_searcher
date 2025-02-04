@@ -1,0 +1,25 @@
+{   
+    "appTitle": "GitHub Repos Searcher",
+    "genericErrorMessageTitle": "Oops, something went wrong.",
+    "genericErrorMessageDescription": "Please try again later.",
+    "genericEmptyMessageTitle": "No results",
+    "genericEmptyMessageDescription": "Sorry, we couldn't find what you were looking for.",
+    "homeScreenSearchInputHint": "Search for repos",
+    "repoListTileAuthor": "Author: {value}",
+    "@repoListTileAuthor": {
+        "placeholders": {
+            "value": {
+                "type": "String"
+            }
+        }
+    },
+    "repoDetailsScreenTitle": "Repo details",
+    "repoDetailsDescriptionHeader": "Description",
+    "repoDetailsTopicsHeader": "Topics",
+    "repoDetailsIssuesLabel": "Issues",
+    "repoDetailsPullRequestsLabel": "Pull requests",
+    "repoDetailsIssuesEmptyPageTitle": "No results",
+    "repoDetailsIssuesEmptyPageDescription": "There are no open issues reported for this repository",
+    "repoDetailsPullRequestsEmptyPageTitle": "No results",
+    "repoDetailsPullRequestsEmptyPageDescription": "There are no open pull requests submitted for this repository."
+}

@@ -1,0 +1,21 @@
+name: github_repos_searcher
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+  flutter: "3.27.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  presentation:
+    path: modules/presentation
+
+dev_dependencies:
+  flutter_lints: 5.0.0
+  melos: 6.2.0
+
+flutter:
+  uses-material-design: true

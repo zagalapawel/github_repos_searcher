@@ -1,0 +1,9 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.27.1",
+  "dart.lineLength": 120,
+  "[dart]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "editor.accessibilitySupport": "off",
+  },
+}
